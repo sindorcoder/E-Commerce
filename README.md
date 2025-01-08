@@ -26,7 +26,7 @@ This is an e-commerce website for a clothing store built using React and Tailwin
 
    ```bash
    git clone https://github.com/sindorcoder/E-Commerce.git
-   cd e-commerce-website
+   cd E-Commerce
    ```
 
 2. Install the dependencies:
